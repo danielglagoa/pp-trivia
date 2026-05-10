@@ -1,0 +1,68 @@
+JUGADOR REAL O INVENTADO
+🟢 Fácil
+85.
+
+P: ¿Existe Ramiro Moyano?
+R: Sí.
+
+86.
+
+P: ¿Existe Javier Palacios?
+R: No.
+
+87.
+
+P: ¿Existe Agustín Tapia?
+R: Sí.
+
+88.
+
+P: ¿Existe Lucas Benavente?
+R: No.
+
+🟡 Intermedio
+89.
+
+P: ¿Existe Coki Nieto?
+R: Sí.
+
+90.
+
+P: ¿Existe Martín Velasco?
+R: No.
+
+91.
+
+P: ¿Existe Álex Ruiz?
+R: Sí.
+
+92.
+
+P: ¿Existe Pablo Llorente?
+R: No.
+
+🔴 Difícil
+93.
+
+P: ¿Existe Tino Libaak?
+R: Sí.
+
+94.
+
+P: ¿Existe Sergio Lamperti?
+R: No. (Trampa con Miguel Lamperti)
+
+95.
+
+P: ¿Existe Juan Tello?
+R: Sí.
+
+96.
+
+P: ¿Existe Matías Sarmiento?
+R: No.
+
+97.
+
+P: ¿Existe Gonza Alfonso?
+R: Sí.
